@@ -28,6 +28,9 @@ Aug 21st - Adjustments
     - Added generic data to user and recipe database for testing.
 - Started a mock wireframe using `https://moqups.com/`.
 - Researched screen resolutions for possible mobile layout design using a referance to Media Genisis, but determined it might be best to design this project as a reactive web design app, for now.
+- Setup public folder
+- Setup index.html to begin building ReactJs structure.
+- Created favicon.ico image
 
 #
 ## Project Scope:
