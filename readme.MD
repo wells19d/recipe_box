@@ -1,9 +1,8 @@
+![Recipe Box](public/favicon.png)
 # Recipe Box
 ## *"Family happiness is made at home."*
 *A global recipe file storage system*
 
-#
-![Recipe Box](public/favicon.png)
 #
 
 *Forget those messy and unorganized recipe boxes. Have a collection of recipes at your fingertips on your mobile device. Then even add those ingredients to a shopping list instead of jumping to another app or losing your shopping list.*
