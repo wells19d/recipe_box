@@ -61,10 +61,14 @@
             - Name:  Name of the recipe
             - By: (person that submitted it)
             - Servings:
-                - This could possibly have a selector, allowing someone to change how many servings they need, it would auto calculate the needed ingredient amounts.
+                - This could possibly have a selector,
+                  allowing someone to change how many
+                  servings they need, it would auto
+                  calculate the needed ingredient amounts.
             - Ingredients:
             - Directions:
-            - Favorite Button: This will be added to a section in someone’s profile for later viewing.
+            - Favorite Button: This will be added to a
+              section in someone’s profile for later viewing.
             - Close Button:
 
         - Profile
