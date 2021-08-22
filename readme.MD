@@ -12,7 +12,7 @@
 
 #
 
-*```Development Notes: This is my first attempt to make a full ReactJs App from the ground up. All files will be coded by myself using examples from projects I've developed from EDA.```*
+*Development Notes: This is my first attempt to make a full ReactJs App from the ground up. All files will be coded by myself using examples from projects I've developed from EDA.*
 # 
 
 ## Project Scope:
