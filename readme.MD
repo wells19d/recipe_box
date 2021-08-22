@@ -31,6 +31,7 @@ Aug 21st - Adjustments
 - Setup public folder
 - Setup index.html to begin building ReactJs structure.
 - Created favicon.ico image
+- Setup React File Structure / Layout
 
 #
 ## Project Scope:
